@@ -9,7 +9,7 @@ Features
 - Detects port scanning activity
 - Flags connections to suspicious ports (Telnet, common C2 ports)
 - Generates timestamped JSON reports per run
-- Fully Dockerized — runs with a single command
+- Fully Dockerized runs with a single command
 
 
 Requirements
