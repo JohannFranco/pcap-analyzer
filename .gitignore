@@ -1,0 +1,7 @@
+@"
+__pycache__/
+*.pyc
+output/
+samples/*.pcap
+.env
+"@ | Out-File -FilePath .gitignore -Encoding utf8
