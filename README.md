@@ -14,6 +14,4 @@ Features
 
 Requirements
 
-Python 3.11+
-Docker (recommended)
-Or: pip install scapy
+Python 3.11+, Docker
