@@ -1,4 +1,4 @@
-PCAP Analyzer
+# PCAP Analyzer
 
 A Python-based network traffic analyzer that parses PCAP files and detects suspicious patterns. 
 
